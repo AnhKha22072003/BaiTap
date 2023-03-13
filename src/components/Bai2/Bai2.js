@@ -1,6 +1,6 @@
 import {useState} from "react";
 import { Input,Button,Modal } from 'antd';
-const Login=(props)=>
+const Login=()=>
 {
 const [user,setUser]=useState([{email:"anhkha",pass:"kha123"},{email:"khakha",pass:"kha11"}])
 const [open,setOpen]=useState(false)
