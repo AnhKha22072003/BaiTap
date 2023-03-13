@@ -31,3 +31,4 @@ const onSubmit=()=>
         </div>
     )
 }
+export default Login;
