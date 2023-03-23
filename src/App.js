@@ -1,10 +1,9 @@
 
-import Bai1 from './components/Bai1/Bai1.js'
-import Login from './components/Bai2/Bai2.js'
+import Exam04 from './Exam04/TableStudents.js'
 const App=()=> {
   return (
     
-  <Login></Login>
+<Exam04></Exam04>
   );
 }
 
